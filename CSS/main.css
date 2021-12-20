@@ -96,3 +96,12 @@ header nav a:hover {
   width: 100%;
   display: block;
 }
+
+.carrosel-series {
+  margin-top: 10px;
+}
+
+.item:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
