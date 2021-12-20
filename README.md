@@ -1,4 +1,4 @@
-### Projeto - Clone da Interface da Netflix
+## Projeto - Clone da Interface da Netflix
 
 #### Repositório responsável por armazenar o projeto que consiste no clone da interface da Netflix.
 
